@@ -1,7 +1,9 @@
 🌐 project_wyntrix
+
 A modern digital marketing website designed to elevate brand presence, drive engagement, and showcase creative strategy.
 
 📌 Overview
+
 project_wyntrix is a full-stack digital marketing site built to demonstrate responsive design, SEO-friendly architecture, and conversion-focused content strategy. It serves as a portfolio piece and a functional template for agencies, freelancers, or personal branding.
 
 🎯 Key Features
