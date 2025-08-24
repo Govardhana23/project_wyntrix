@@ -16,6 +16,7 @@ project_wyntrix is a full-stack digital marketing site built to demonstrate resp
 🔗 Social media integration and call-to-action buttons
 
 🛠️ Tech Stack
+
  ● JavaScript/ Tailwind CSS
 
  ● React (for dynamic components and routing)
