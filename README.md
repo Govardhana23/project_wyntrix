@@ -26,7 +26,7 @@
 
 Build the project:
 
-npm run build
+```npm run build```
 
 
 Deploy the build folder to your preferred hosting platform
