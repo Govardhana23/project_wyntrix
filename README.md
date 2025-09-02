@@ -22,7 +22,7 @@
 
 ---
 
-##🚀 Deployment
+__🚀 Deployment__
 
 Build the project:
 
@@ -31,12 +31,12 @@ Build the project:
 
 Deploy the build folder to your preferred hosting platform
 
-##🧑‍💻 Author
+__🧑‍💻 Author__
 
 Govardhana Guhanesh K
 
 GitHub: @Govardhana23
 
-##📜 License
+__📜 License__
 
 This project was built as a professional client deliverable.
